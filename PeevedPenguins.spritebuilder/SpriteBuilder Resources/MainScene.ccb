@@ -162,11 +162,11 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>302</real>
-							<real>94</real>
+							<real>0.53169012069702148</real>
+							<real>0.29374998807907104</real>
 							<integer>0</integer>
-							<integer>0</integer>
-							<integer>0</integer>
+							<integer>2</integer>
+							<integer>2</integer>
 						</array>
 					</dict>
 					<dict>
@@ -455,6 +455,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -527,8 +529,6 @@
 				</array>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
@@ -596,7 +596,7 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>0.0</real>
+			<real>0.52190685272216797</real>
 			<key>position</key>
 			<real>0.0</real>
 			<key>resolution</key>
