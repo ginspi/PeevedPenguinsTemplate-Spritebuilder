@@ -452,8 +452,6 @@
 								</array>
 							</dict>
 						</array>
-						<key>selected</key>
-						<true/>
 					</dict>
 					<dict>
 						<key>UUID</key>
@@ -501,12 +499,12 @@
 									<real>0.0</real>
 								</array>
 								<array>
-									<real>0.0</real>
-									<real>61</real>
+									<real>1.41015625</real>
+									<real>36.51953125</real>
 								</array>
 								<array>
-									<real>960</real>
-									<real>61</real>
+									<real>961.67578125</real>
+									<real>42.734375</real>
 								</array>
 								<array>
 									<real>960</real>
@@ -521,12 +519,12 @@
 										<real>0.0</real>
 									</array>
 									<array>
-										<real>960</real>
-										<real>61</real>
+										<real>961.67578125</real>
+										<real>42.734375</real>
 									</array>
 									<array>
-										<real>0.0</real>
-										<real>61</real>
+										<real>1.41015625</real>
+										<real>36.51953125</real>
 									</array>
 									<array>
 										<real>0.0</real>
@@ -608,6 +606,8 @@
 								</array>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
