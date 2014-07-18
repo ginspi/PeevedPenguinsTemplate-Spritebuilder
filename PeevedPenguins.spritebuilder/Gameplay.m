@@ -16,10 +16,11 @@
 
 // is called when CCB file has completed loading
 - (void)didLoadFromCCB {
-    // tell this scene to accept touches
-    self.userInteractionEnabled = TRUE;
     CCScene *level = [CCBReader loadAsScene:@"Levels/Level1"];
     [_levelNode addChild:level];
+    // tell this scene to accept touches
+    self.userInteractionEnabled = TRUE;
+
 }
 
 // called on every touch in this scene
