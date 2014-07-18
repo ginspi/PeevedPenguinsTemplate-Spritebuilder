@@ -499,12 +499,12 @@
 									<real>0.0</real>
 								</array>
 								<array>
-									<real>1.41015625</real>
-									<real>36.51953125</real>
+									<real>0.39453125</real>
+									<real>37.51953125</real>
 								</array>
 								<array>
-									<real>961.67578125</real>
-									<real>42.734375</real>
+									<real>960.48828125</real>
+									<real>40.38671875</real>
 								</array>
 								<array>
 									<real>960</real>
@@ -519,12 +519,12 @@
 										<real>0.0</real>
 									</array>
 									<array>
-										<real>961.67578125</real>
-										<real>42.734375</real>
+										<real>960.48828125</real>
+										<real>40.38671875</real>
 									</array>
 									<array>
-										<real>1.41015625</real>
-										<real>36.51953125</real>
+										<real>0.39453125</real>
+										<real>37.51953125</real>
 									</array>
 									<array>
 										<real>0.0</real>
