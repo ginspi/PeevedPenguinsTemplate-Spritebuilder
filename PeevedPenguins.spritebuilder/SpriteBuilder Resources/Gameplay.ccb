@@ -385,7 +385,7 @@
 						<key>customClass</key>
 						<string>Gameplay</string>
 						<key>displayName</key>
-						<string>Gameplay</string>
+						<string>CCNode</string>
 						<key>memberVarAssignmentName</key>
 						<string>_levelNode</string>
 						<key>memberVarAssignmentType</key>
@@ -613,7 +613,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>Gameplay</string>
+				<string>CCPhysicsNode</string>
 				<key>memberVarAssignmentName</key>
 				<string>_physicsNode</string>
 				<key>memberVarAssignmentType</key>
