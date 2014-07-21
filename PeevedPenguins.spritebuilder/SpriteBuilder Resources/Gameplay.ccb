@@ -707,9 +707,9 @@
 					</dict>
 				</array>
 				<key>customClass</key>
-				<string>Gameplay</string>
+				<string></string>
 				<key>displayName</key>
-				<string>contentnode</string>
+				<string>CCNode</string>
 				<key>memberVarAssignmentName</key>
 				<string>_contentNode</string>
 				<key>memberVarAssignmentType</key>
