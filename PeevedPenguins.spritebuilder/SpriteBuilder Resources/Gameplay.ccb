@@ -1109,6 +1109,8 @@
 		<string>Gameplay</string>
 		<key>displayName</key>
 		<string>CCNode</string>
+		<key>locked</key>
+		<true/>
 		<key>memberVarAssignmentName</key>
 		<string></string>
 		<key>memberVarAssignmentType</key>
