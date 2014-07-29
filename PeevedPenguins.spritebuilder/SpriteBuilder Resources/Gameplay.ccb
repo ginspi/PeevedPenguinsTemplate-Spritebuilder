@@ -1206,7 +1206,7 @@
 								<key>children</key>
 								<array/>
 								<key>customClass</key>
-								<string></string>
+								<string>CCPhysicsJoint</string>
 								<key>displayName</key>
 								<string>CCNode</string>
 								<key>memberVarAssignmentName</key>
